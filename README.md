@@ -1,10 +1,13 @@
-# hello-world
-Meu primeiro repositório no GitHub
+# Repositório de Estudos.
 
-
-# Este é o meu Primeiro Clone de Repositório Remoto.
+Este é um Repositório de Estudos para o Curso de Git e GitHub.
 
 ## Objetivos
-    Clonar um repositório
-    Adicionar alterações e realizar o commit
-    Subir o novo arquivo para o GitHub com as alterações
+
+- Criar um repositório local e adicioná-lo ao GitHub
+- Clonar um repositório
+- Adicionar alterações e realizar o commit
+- Subir o novo arquivo para o GitHub com as alterações
+- Criar uma branch
+- Fazer um pull request e merge
+- Criar o meu primeiro Fork
